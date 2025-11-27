@@ -69,7 +69,6 @@
 			<scope>runtime</scope>
 		</dependency>
 
-
 		<!-- TOTP (Time-based One-Time Password) -->
 		<dependency>
 			<groupId>com.warrenstrange</groupId>
